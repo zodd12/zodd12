@@ -1,6 +1,5 @@
 - 👋 Hi, I’m jonathan
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning 
-- 💞️ initiated
 - 📫 How to reach me (call or text)
 - ⚡ Fun fact: none
